@@ -7,3 +7,5 @@ require (
 	github.com/labstack/echo/v4 v4.0.0
 	github.com/omeid/livereload v0.0.0-20180903043807-18d58b752b26
 )
+
+go 1.13
