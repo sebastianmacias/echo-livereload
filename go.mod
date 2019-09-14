@@ -1,4 +1,4 @@
-module github.com/mattn/echo-livereload
+module github.com/sebastianmacias/echo-livereload
 
 require (
 	github.com/fsnotify/fsnotify v1.4.7
